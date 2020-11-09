@@ -1,4 +1,10 @@
 {
-  "lib/amber/cli/*.rb": {"alternate": "spec/cli/*-spec.rb"},
-  "spec/cli/*-spec.rb": {"alternate": "lib/*.rb"}
+  "lib/emend/cli/*.rb": {"alternate": "spec/emend/cli/*-spec.rb"},
+  "spec/emend/cli/*-spec.rb": {"alternate": "lib/emend/cli/*.rb"},
+#
+  "lib/emend/command/*.rb": {"alternate": "spec/emend/command/*-spec.rb"},
+  "spec/emend/command/*-spec.rb": {"alternate": "lib/emend//*.rb"},
+#
+  "lib/emend/utility/*.rb": {"alternate": "spec/emend/utility/*-spec.rb"},
+  "spec/emend/utility/*-spec.rb": {"alternate": "lib/emend/utility/*.rb"}
 }
