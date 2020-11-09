@@ -12,6 +12,7 @@ module Emend
           next unless install_on_this_os? o['name']
           o['command'].each do |c|
             sudo = sudo_or_nil c
+            @workingdir = workingdir c 
             @command = "#{sudo}#{c['program']} #{c['argument']}"
             do_command false
           end
@@ -30,5 +31,8 @@ module Emend
       return true if RbConfig::CONFIG['host_os'].start_with? opsys
     end
 
+    def workingdir(cmd)
+      wd = cmd['workingdir']
+    end
   end
 end

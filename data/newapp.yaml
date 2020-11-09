@@ -18,9 +18,10 @@ repos:
 # {{{ Installations
 installations:
   - os:
-    - name: darwin
+    - name: linux 
       command:
        - sudo: false
+         workingdir: ~/Downloads/foo
          program: echo 
          argument: Hello foo 
  
@@ -28,12 +29,19 @@ installations:
       command:
        - sudo: false
          program: echo
+         workingdir: ~/Downloads/bar
          argument: Hello foo
+ 
+       - sudo: false
+         workingdir: ~/Downloads/Alpha
+         program: echo
+         argument: Hello Alpha
  
     - name: any
       command:
        - sudo: false
          program: echo  
          argument: Goodbye foo 
+         workingdir: ~/Downloads/baz
  
 # -------------------------------------------------------------------------- }}}
