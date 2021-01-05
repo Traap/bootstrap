@@ -112,22 +112,25 @@ installations:
 ```
 
 ### emend command line
-ruby ruby/emend.rb --help
-
-Usage: emend.rb [options]
+Usage: emend [argv] [options]
 
 Specific options:
-    -n, --nodryrun                   No Dryrun
-    -a, --app x,y,x                  App name
-    -b, --bundle x,y,x               Bundle name
-    -f, --file x,y,x                 File name
-    -v, --verbose                    Verbose
-    -h, --help                       Show this message
+    -v, --[no-]verbose               Run verbosely
+    -n, --[no-]dryrun                No Dryrun
+    -a, --app x,y,z                  App name
+    -b, --bundle x,y,z               Bundle name
+    -f, --file x,y,z                 File name
+    -c, --command-log x              Log commands to file name
+
+Print version and exit.
         --version                    Show version
 
-### --nodryrun
+### --[no]-verbose
+Echo commands to system output.
+
+### --[no]-dryrun
 By default, **emend** does not modify your computer.  You must explicitly
-use the **--nodryrun** options to cause side effects.  The commands that would
+use the **--no-dryrun** options to cause side effects.  The commands that would
 have been executed are echoed to system out.
 
 ### --app
@@ -141,18 +144,19 @@ directory and YAML file name convention is mandatory: app/an-app/an-app.yaml.
 A comma-separated list of bundle names **emend** is to process.  The following
 directory and YAML file name convention is mandatory:
 bundle/a-bundle/a-bundle.yaml.
+```
+--bundle a-bundle 
+```
 
 ### --file
 A comma-separated list of file names **emend** is to process.
 
-### --verbose
-Echo commands to system output.
-
 ### --help
 Show this message.
-### --version
 
-1.0.0 is this the current version.
+### --version
+1.3.72 is this the current version.
+
 ## Add this function to .bashrc
 ```bash
 EMENDPATH=${HOME}/git/emend
