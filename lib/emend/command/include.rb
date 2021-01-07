@@ -20,8 +20,8 @@ module Emend
     def include_this_file(name, opt)
       opt_and_files = "#{opt}=#{name.map(&:values).join(',')}"
       @command = "emend #{opt_and_files}"
-      @command.concat ' --verbose'  if @options.verbose
-      @command.concat ' --nodryrun' unless @options.dryrun
+      @command.concat ' --verbose'  if @options[:verbose]
+      @command.concat ' --no-dryrun' unless @options[:dryrun]
       puts "Including #{opt_and_files}"
       puts
       do_command true

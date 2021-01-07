@@ -1,11 +1,10 @@
-require 'rspec'
 require 'emend'
 
-# ------------------------------------------------------------------------------
+# {{{ YAML substitutions
+
 describe 'YAML Home Substitutions' do
 
   before(:all) do
-    @options = Emend::Options.new
     @home = Dir.home()
     @file = "/foo/bar/baz"
   end
@@ -22,3 +21,5 @@ describe 'YAML Home Substitutions' do
   end
 
 end
+
+# -------------------------------------------------------------------------- }}}

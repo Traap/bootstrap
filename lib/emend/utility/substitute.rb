@@ -1,8 +1,8 @@
 # Substitute the following strings when process a YAML files.
-#   The home directory
+# The home directory
 #     ~
 #     ${home}
-#     {$HOME}
+#     ${HOME}
 #
 require 'fileutils'
 

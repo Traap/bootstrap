@@ -7,13 +7,13 @@ module Emend
 
     def install_artifact
       puts 'Installing programs'
-      @data.each do |n|
-        n['os'].each do |o|
-          next unless install_on_this_os? o['name']
-          o['command'].each do |c|
-            sudo = sudo_or_nil c
-            @workingdir = workingdir c 
-            @command = "#{sudo}#{c['program']} #{c['argument']}"
+      @data.each do |node|
+        node['os'].each do |os|
+          next unless install_on_this_os? os['name']
+          os['command'].each do |cmd|
+            sudo = sudo_or_nil cmd
+            @workingdir = workingdir cmd
+            @command = "#{sudo}#{cmd['program']} #{cmd['argument']}"
             do_command false
           end
         end

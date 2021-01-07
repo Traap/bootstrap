@@ -1,7 +1,9 @@
+# frozen_string_literal: true
+
 # Copyright (c) Gary Allan Howard aka Traap.
 # License BSD-3-Clause
 # ------------------------------------------------------------------------------
 
 module Emend
-  VERSION = '1.3.0.38'.freeze
+  VERSION = '1.4.0.84'.freeze
 end

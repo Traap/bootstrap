@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+#
 # Copyright (c) Gary Allan Howard aka Traap.
 #
 # License BSD-3-Clause
@@ -12,14 +14,15 @@
 # repositories, making symbolic links, and installing programs.
 # ------------------------------------------------------------------------------
 
-require 'emend/initialize'
+require_relative 'emend/initialize'
 
 # ------------------------------------------------------------------------------
 module Emend
+  class Error < StandardError; end
   # Command Line Interface.
   class CLI
-    def execute(args)
-      options = CommandLineOptions.parse args
+    def execute(argv)
+      options = CommandLineOptions.parse argv
       workflow = Workflow.new(options)
       workflow.orchestrate
     end

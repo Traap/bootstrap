@@ -1,8 +1,8 @@
 # frozen_string_literal: true
 require 'emend'
 
-describe 'Emend Command' do
-  it 'mock object' do
+RSpec.describe Emend do
+  it "does something useful" do
     expect(true).to eq(true)
   end
 end

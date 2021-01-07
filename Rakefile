@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 require 'bundler/gem_tasks'
 require 'rspec/core/rake_task'
 
@@ -13,7 +14,7 @@ rescue StandardError
 end
 
 # ------------------------------------------------------------------------------
-# Build Emend 
+# Build Ember. 
 # ------------------------------------------------------------------------------
 
 namespace :build do

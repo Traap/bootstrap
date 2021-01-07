@@ -4,9 +4,10 @@
 require 'pp'
 require 'yaml'
 require 'open3'
-require 'rbconfig'
 require 'optparse'
 require 'ostruct'
+require 'rbconfig'
+require 'rspec'
 
 # Making it easy to setup Emend includes and Rspecing Emend.
 require 'require_all'

@@ -7,9 +7,9 @@ module Emend
 
     def install_artifact
       puts 'Cloning repositories'
-      @data.each do |n|
-        n['paths'].each do |p|
-          @command = "git clone #{n['url']}/#{p['source']} #{p['target']}"
+      @data.each do |node|
+        node['paths'].each do |path|
+          @command = "git clone #{node['url']}/#{path['source']} #{path['target']}"
           do_command false
         end
       end

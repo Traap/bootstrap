@@ -1,8 +1,13 @@
+# frozen_string_literal: true
 module Emend
-  # ----------------------------------------------------------------------------
+
+# {{{ ShellError
+
   class ShellError < StandardError; end
 
-  # ----------------------------------------------------------------------------
+# -------------------------------------------------------------------------- }}}
+# {{{ Class Command definitions
+
   class Command
     def initialize(data, options)
       @data = data
@@ -18,8 +23,8 @@ module Emend
     protected
 
     def do_command(included_file)
-      echo_command if included_file || @options.verbose || @options.dryrun
-      run_command  if included_file || !@options.dryrun
+      echo_command if included_file || @options[:verbose] || @options[:dryrun]
+      run_command  if included_file || !@options[:dryrun]
     end
 
     private
@@ -29,22 +34,23 @@ module Emend
     end
 
     def run_command
-      if @workingdir != nil 
+      if @workingdir != nil
         pwd = Dir.getwd
         @workingdir
-      end 
+      end
 
       status = system(Emend::Substitute.expand_path(@command))
 
-      if @workingdir != nil 
+      if @workingdir != nil
         Dir.chdir pwd
       end
 
-      status 
+      status
     rescue ShellError
       abort "System command failed: #{status}"
     end
   end
 
+# -------------------------------------------------------------------------- }}}
+
 end
-# ------------------------------------------------------------------------------
