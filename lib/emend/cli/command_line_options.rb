@@ -9,6 +9,7 @@ module Emend
 
     def initialize
       @options = {}
+      @options[:dryrun] = true 
     end
 
     # ---------------------------------------------------------------------- }}}

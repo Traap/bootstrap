@@ -14,9 +14,9 @@ RSpec.describe 'Emend Command Line'do
   end
 
   describe '--dryrun' do
-    it 'has not been used' do
+    it 'has not been used but defalts to true' do
       options = Emend::CommandLineOptions.parse ARGV
-      expect(options[:dryrun]).to be(nil)
+      expect(options[:dryrun]).to be(true)
     end
   end
 

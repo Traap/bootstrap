@@ -1,0 +1,278 @@
+INFO  2021-01-07T07:12:45.762 27810 set_init_2:754: startup runtimepath/packpath value: /home/gary/.config/nvim,/etc/xdg/nvim,/home/gary/.local/share/nvim/site,/usr/local/share/nvim/site,/usr/share/nvim/site,/var/lib/snapd/desktop/nvim/site,/usr/local/share/nvim/runtime,/usr/local/lib/nvim,/var/lib/snapd/desktop/nvim/site/after,/usr/share/nvim/site/after,/usr/local/share/nvim/site/after,/home/gary/.local/share/nvim/site/after,/etc/xdg/nvim/after,/home/gary/.config/nvim/after
+INFO  2021-01-07T07:12:46.044 27810 on_process_exit:392: exited: pid=27812 status=0 stoptime=0
+INFO  2021-01-07T07:12:46.105 27810 on_process_exit:392: exited: pid=27814 status=0 stoptime=0
+INFO  2021-01-07T07:12:46.123 27810 on_process_exit:392: exited: pid=27815 status=2 stoptime=0
+INFO  2021-01-07T07:12:46.133 27810 on_process_exit:392: exited: pid=27816 status=2 stoptime=0
+INFO  2021-01-07T07:12:46.247 27810 on_process_exit:392: exited: pid=27817 status=0 stoptime=0
+INFO  2021-01-07T07:12:46.307 27810 channel_create_event:204: new channel 3 (function <SNR>4_install[1]..<SNR>4_update_impl[113]..<SNR>4_update_vim[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 3, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:46.312 27810 channel_create_event:204: new channel 4 (function <SNR>4_install[1]..<SNR>4_update_impl[113]..<SNR>4_update_vim[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 4, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:46.315 27810 channel_create_event:204: new channel 5 (function <SNR>4_install[1]..<SNR>4_update_impl[113]..<SNR>4_update_vim[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 5, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:46.320 27810 channel_create_event:204: new channel 6 (function <SNR>4_install[1]..<SNR>4_update_impl[113]..<SNR>4_update_vim[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 6, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:46.334 27810 channel_create_event:204: new channel 7 (function <SNR>4_install[1]..<SNR>4_update_impl[113]..<SNR>4_update_vim[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 7, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:46.338 27810 channel_create_event:204: new channel 8 (function <SNR>4_install[1]..<SNR>4_update_impl[113]..<SNR>4_update_vim[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 8, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:46.344 27810 channel_create_event:204: new channel 9 (function <SNR>4_install[1]..<SNR>4_update_impl[113]..<SNR>4_update_vim[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 9, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:46.354 27810 channel_create_event:204: new channel 10 (function <SNR>4_install[1]..<SNR>4_update_impl[113]..<SNR>4_update_vim[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 10, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:46.361 27810 channel_create_event:204: new channel 11 (function <SNR>4_install[1]..<SNR>4_update_impl[113]..<SNR>4_update_vim[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 11, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:46.369 27810 channel_create_event:204: new channel 12 (function <SNR>4_install[1]..<SNR>4_update_impl[113]..<SNR>4_update_vim[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 12, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:46.377 27810 channel_create_event:204: new channel 13 (function <SNR>4_install[1]..<SNR>4_update_impl[113]..<SNR>4_update_vim[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 13, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:46.388 27810 channel_create_event:204: new channel 14 (function <SNR>4_install[1]..<SNR>4_update_impl[113]..<SNR>4_update_vim[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 14, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:46.396 27810 channel_create_event:204: new channel 15 (function <SNR>4_install[1]..<SNR>4_update_impl[113]..<SNR>4_update_vim[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 15, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:46.405 27810 channel_create_event:204: new channel 16 (function <SNR>4_install[1]..<SNR>4_update_impl[113]..<SNR>4_update_vim[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 16, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:46.417 27810 channel_create_event:204: new channel 17 (function <SNR>4_install[1]..<SNR>4_update_impl[113]..<SNR>4_update_vim[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 17, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:46.424 27810 channel_create_event:204: new channel 18 (function <SNR>4_install[1]..<SNR>4_update_impl[113]..<SNR>4_update_vim[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 18, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:47.242 27810 on_process_exit:392: exited: pid=27818 status=0 stoptime=0
+INFO  2021-01-07T07:12:47.248 27810 on_process_exit:392: exited: pid=27829 status=0 stoptime=0
+INFO  2021-01-07T07:12:47.260 27810 on_process_exit:392: exited: pid=27820 status=0 stoptime=0
+INFO  2021-01-07T07:12:47.260 27810 on_process_exit:392: exited: pid=27848 status=0 stoptime=0
+INFO  2021-01-07T07:12:47.266 27810 on_process_exit:392: exited: pid=27840 status=0 stoptime=0
+INFO  2021-01-07T07:12:47.270 27810 channel_create_event:204: new channel 19 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 19, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:47.292 27810 on_process_exit:392: exited: pid=27823 status=0 stoptime=0
+INFO  2021-01-07T07:12:47.302 27810 on_process_exit:392: exited: pid=27846 status=0 stoptime=0
+INFO  2021-01-07T07:12:47.305 27810 on_process_exit:392: exited: pid=27834 status=0 stoptime=0
+INFO  2021-01-07T07:12:47.310 27810 channel_create_event:204: new channel 20 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 20, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:47.312 27810 on_process_exit:392: exited: pid=27832 status=0 stoptime=0
+INFO  2021-01-07T07:12:47.336 27810 channel_create_event:204: new channel 21 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 21, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:47.362 27810 channel_create_event:204: new channel 22 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 22, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:47.377 27810 on_process_exit:392: exited: pid=27837 status=0 stoptime=0
+INFO  2021-01-07T07:12:47.383 27810 on_process_exit:392: exited: pid=27826 status=0 stoptime=0
+INFO  2021-01-07T07:12:47.386 27810 on_process_exit:392: exited: pid=27841 status=0 stoptime=0
+INFO  2021-01-07T07:12:47.395 27810 on_process_exit:392: exited: pid=27835 status=0 stoptime=0
+INFO  2021-01-07T07:12:47.398 27810 channel_create_event:204: new channel 23 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 23, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:47.418 27810 channel_create_event:204: new channel 24 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 24, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:47.443 27810 channel_create_event:204: new channel 25 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 25, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:47.464 27810 channel_create_event:204: new channel 26 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 26, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:47.486 27810 channel_create_event:204: new channel 27 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 27, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:47.521 27810 channel_create_event:204: new channel 28 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 28, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:47.537 27810 on_process_exit:392: exited: pid=27827 status=0 stoptime=0
+INFO  2021-01-07T07:12:47.548 27810 channel_create_event:204: new channel 29 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 29, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:47.571 27810 channel_create_event:204: new channel 30 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 30, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:47.607 27810 channel_create_event:204: new channel 31 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 31, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:47.643 27810 channel_create_event:204: new channel 32 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 32, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:47.716 27810 on_process_exit:392: exited: pid=27819 status=0 stoptime=0
+INFO  2021-01-07T07:12:47.737 27810 channel_create_event:204: new channel 33 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 33, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:48.158 27810 on_process_exit:392: exited: pid=27906 status=0 stoptime=0
+INFO  2021-01-07T07:12:48.167 27810 on_process_exit:392: exited: pid=27894 status=0 stoptime=0
+INFO  2021-01-07T07:12:48.204 27810 channel_create_event:204: new channel 34 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 34, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:48.265 27810 channel_create_event:204: new channel 35 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 35, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:48.360 27810 on_process_exit:392: exited: pid=27918 status=0 stoptime=0
+INFO  2021-01-07T07:12:48.363 27810 on_process_exit:392: exited: pid=27926 status=0 stoptime=0
+INFO  2021-01-07T07:12:48.387 27810 on_process_exit:392: exited: pid=27911 status=0 stoptime=0
+INFO  2021-01-07T07:12:48.408 27810 on_process_exit:392: exited: pid=27932 status=0 stoptime=0
+INFO  2021-01-07T07:12:48.430 27810 on_process_exit:392: exited: pid=27928 status=0 stoptime=0
+INFO  2021-01-07T07:12:48.434 27810 channel_create_event:204: new channel 36 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 36, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:48.459 27810 on_process_exit:392: exited: pid=27924 status=0 stoptime=0
+INFO  2021-01-07T07:12:48.533 27810 channel_create_event:204: new channel 37 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 37, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:48.582 27810 on_process_exit:392: exited: pid=27937 status=0 stoptime=0
+INFO  2021-01-07T07:12:48.590 27810 channel_create_event:204: new channel 38 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 38, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:48.633 27810 on_process_exit:392: exited: pid=27930 status=0 stoptime=0
+INFO  2021-01-07T07:12:48.649 27810 on_process_exit:392: exited: pid=27942 status=0 stoptime=0
+INFO  2021-01-07T07:12:48.654 27810 on_process_exit:392: exited: pid=27947 status=0 stoptime=0
+INFO  2021-01-07T07:12:48.662 27810 channel_create_event:204: new channel 39 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 39, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:48.684 27810 on_process_exit:392: exited: pid=27949 status=0 stoptime=0
+INFO  2021-01-07T07:12:48.718 27810 channel_create_event:204: new channel 40 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 40, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:48.721 27810 on_process_exit:392: exited: pid=27940 status=0 stoptime=0
+INFO  2021-01-07T07:12:48.721 27810 on_process_exit:392: exited: pid=27952 status=0 stoptime=0
+INFO  2021-01-07T07:12:48.772 27810 channel_create_event:204: new channel 41 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 41, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:48.816 27810 channel_create_event:204: new channel 42 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 42, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:48.843 27810 channel_create_event:204: new channel 43 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 43, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:48.871 27810 channel_create_event:204: new channel 44 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 44, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:48.902 27810 channel_create_event:204: new channel 45 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 45, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:48.937 27810 channel_create_event:204: new channel 46 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 46, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:48.972 27810 channel_create_event:204: new channel 47 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 47, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:48.000 27810 channel_create_event:204: new channel 48 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 48, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:49.071 27810 on_process_exit:392: exited: pid=27972 status=0 stoptime=0
+INFO  2021-01-07T07:12:49.100 27810 channel_create_event:204: new channel 49 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 49, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:49.126 27810 on_process_exit:392: exited: pid=27989 status=0 stoptime=0
+INFO  2021-01-07T07:12:49.157 27810 channel_create_event:204: new channel 50 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 50, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:49.376 27810 on_process_exit:392: exited: pid=28022 status=0 stoptime=0
+INFO  2021-01-07T07:12:49.440 27810 channel_create_event:204: new channel 51 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 51, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:49.526 27810 on_process_exit:392: exited: pid=28030 status=0 stoptime=0
+INFO  2021-01-07T07:12:49.610 27810 channel_create_event:204: new channel 52 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 52, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:49.628 27810 on_process_exit:392: exited: pid=28038 status=0 stoptime=0
+INFO  2021-01-07T07:12:49.697 27810 on_process_exit:392: exited: pid=28040 status=0 stoptime=0
+INFO  2021-01-07T07:12:49.710 27810 channel_create_event:204: new channel 53 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 53, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:49.741 27810 on_process_exit:392: exited: pid=28042 status=0 stoptime=0
+INFO  2021-01-07T07:12:49.741 27810 on_process_exit:392: exited: pid=28044 status=0 stoptime=0
+INFO  2021-01-07T07:12:49.741 27810 on_process_exit:392: exited: pid=28046 status=0 stoptime=0
+INFO  2021-01-07T07:12:49.774 27810 on_process_exit:392: exited: pid=28012 status=0 stoptime=0
+INFO  2021-01-07T07:12:49.832 27810 channel_create_event:204: new channel 54 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 54, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:49.834 27810 on_process_exit:392: exited: pid=28056 status=0 stoptime=0
+INFO  2021-01-07T07:12:49.934 27810 on_process_exit:392: exited: pid=28050 status=0 stoptime=0
+INFO  2021-01-07T07:12:49.000 27810 channel_create_event:204: new channel 55 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 55, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:50.098 27810 channel_create_event:204: new channel 56 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 56, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:50.111 27810 on_process_exit:392: exited: pid=28061 status=0 stoptime=0
+INFO  2021-01-07T07:12:50.155 27810 channel_create_event:204: new channel 57 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 57, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:50.173 27810 on_process_exit:392: exited: pid=28064 status=0 stoptime=0
+INFO  2021-01-07T07:12:50.192 27810 on_process_exit:392: exited: pid=27844 status=0 stoptime=0
+INFO  2021-01-07T07:12:50.197 27810 on_process_exit:392: exited: pid=28010 status=0 stoptime=0
+INFO  2021-01-07T07:12:50.198 27810 on_process_exit:392: exited: pid=28048 status=0 stoptime=0
+INFO  2021-01-07T07:12:50.223 27810 channel_create_event:204: new channel 58 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 58, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:50.228 27810 on_process_exit:392: exited: pid=28052 status=0 stoptime=0
+INFO  2021-01-07T07:12:50.268 27810 channel_create_event:204: new channel 59 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 59, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:50.311 27810 channel_create_event:204: new channel 60 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 60, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:50.355 27810 channel_create_event:204: new channel 61 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 61, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:50.395 27810 channel_create_event:204: new channel 62 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 62, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:50.434 27810 channel_create_event:204: new channel 63 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 63, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:50.474 27810 channel_create_event:204: new channel 64 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 64, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:50.516 27810 channel_create_event:204: new channel 65 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 65, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:50.567 27810 channel_create_event:204: new channel 66 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 66, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:50.637 27810 on_process_exit:392: exited: pid=28097 status=0 stoptime=0
+INFO  2021-01-07T07:12:50.726 27810 channel_create_event:204: new channel 67 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 67, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:50.825 27810 on_process_exit:392: exited: pid=28113 status=0 stoptime=0
+INFO  2021-01-07T07:12:50.880 27810 channel_create_event:204: new channel 68 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 68, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:51.043 27810 on_process_exit:392: exited: pid=28143 status=0 stoptime=0
+INFO  2021-01-07T07:12:51.067 27810 on_process_exit:392: exited: pid=28138 status=0 stoptime=0
+INFO  2021-01-07T07:12:51.103 27810 channel_create_event:204: new channel 69 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 69, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:51.113 27810 on_process_exit:392: exited: pid=28128 status=0 stoptime=0
+INFO  2021-01-07T07:12:51.136 27810 on_process_exit:392: exited: pid=28151 status=0 stoptime=0
+INFO  2021-01-07T07:12:51.153 27810 channel_create_event:204: new channel 70 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 70, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:51.208 27810 channel_create_event:204: new channel 71 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 71, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:51.260 27810 channel_create_event:204: new channel 72 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 72, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:51.261 27810 on_process_exit:392: exited: pid=28156 status=0 stoptime=0
+INFO  2021-01-07T07:12:51.303 27810 on_process_exit:392: exited: pid=28160 status=0 stoptime=0
+INFO  2021-01-07T07:12:51.315 27810 channel_create_event:204: new channel 73 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 73, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:51.367 27810 channel_create_event:204: new channel 74 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 74, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:51.458 27810 on_process_exit:392: exited: pid=28164 status=0 stoptime=0
+INFO  2021-01-07T07:12:51.471 27810 on_process_exit:392: exited: pid=28166 status=0 stoptime=0
+INFO  2021-01-07T07:12:51.493 27810 on_process_exit:392: exited: pid=28162 status=0 stoptime=0
+INFO  2021-01-07T07:12:51.496 27810 on_process_exit:392: exited: pid=28168 status=0 stoptime=0
+INFO  2021-01-07T07:12:51.503 27810 channel_create_event:204: new channel 75 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 75, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:51.553 27810 channel_create_event:204: new channel 76 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 76, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:51.603 27810 channel_create_event:204: new channel 77 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 77, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:51.648 27810 on_process_exit:392: exited: pid=28174 status=0 stoptime=0
+INFO  2021-01-07T07:12:51.657 27810 channel_create_event:204: new channel 78 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 78, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:51.719 27810 on_process_exit:392: exited: pid=28170 status=0 stoptime=0
+INFO  2021-01-07T07:12:51.735 27810 channel_create_event:204: new channel 79 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 79, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:51.758 27810 on_process_exit:392: exited: pid=28176 status=0 stoptime=0
+INFO  2021-01-07T07:12:51.800 27810 channel_create_event:204: new channel 80 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 80, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:51.894 27810 channel_create_event:204: new channel 81 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 81, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:51.941 27810 on_process_exit:392: exited: pid=28189 status=0 stoptime=0
+INFO  2021-01-07T07:12:51.958 27810 on_process_exit:392: exited: pid=28075 status=0 stoptime=0
+INFO  2021-01-07T07:12:51.999 27810 channel_create_event:204: new channel 82 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 82, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:52.112 27810 on_process_exit:392: exited: pid=28212 status=0 stoptime=0
+INFO  2021-01-07T07:12:52.127 27810 on_process_exit:392: exited: pid=28209 status=0 stoptime=0
+INFO  2021-01-07T07:12:52.127 27810 on_process_exit:392: exited: pid=28218 status=0 stoptime=0
+INFO  2021-01-07T07:12:52.129 27810 channel_create_event:204: new channel 83 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 83, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:52.193 27810 channel_create_event:204: new channel 84 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 84, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:52.197 27810 on_process_exit:392: exited: pid=28227 status=0 stoptime=0
+INFO  2021-01-07T07:12:52.258 27810 channel_create_event:204: new channel 85 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 85, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:52.282 27810 on_process_exit:392: exited: pid=28232 status=0 stoptime=0
+INFO  2021-01-07T07:12:52.301 27810 on_process_exit:392: exited: pid=28236 status=0 stoptime=0
+INFO  2021-01-07T07:12:52.314 27810 channel_create_event:204: new channel 86 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 86, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:52.363 27810 channel_create_event:204: new channel 87 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 87, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:52.426 27810 channel_create_event:204: new channel 88 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 88, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:52.431 27810 on_process_exit:392: exited: pid=28255 status=0 stoptime=0
+INFO  2021-01-07T07:12:52.480 27810 on_process_exit:392: exited: pid=28257 status=0 stoptime=0
+INFO  2021-01-07T07:12:52.509 27810 channel_create_event:204: new channel 89 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 89, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:52.541 27810 on_process_exit:392: exited: pid=28266 status=0 stoptime=0
+INFO  2021-01-07T07:12:52.558 27810 on_process_exit:392: exited: pid=28274 status=0 stoptime=0
+INFO  2021-01-07T07:12:52.616 27810 channel_create_event:204: new channel 90 (function <SNR>4_install[1]..<SNR>4_update_impl[115]..<SNR>4_nvim_cb[1]..<SNR>4_job_cb[4]..<SNR>4_job_exit_cb[4]..<SNR>4_tick[46]..<SNR>4_spawn[15]..<SNR>4_plug_call:1) : {"id": 90, "mode": "bytes", "stream": "job"}
+INFO  2021-01-07T07:12:52.629 27810 on_process_exit:392: exited: pid=28261 status=0 stoptime=0
+INFO  2021-01-07T07:12:52.655 27810 on_process_exit:392: exited: pid=28183 status=0 stoptime=0
+INFO  2021-01-07T07:12:52.693 27810 on_process_exit:392: exited: pid=28282 status=0 stoptime=0
+INFO  2021-01-07T07:12:52.761 27810 on_process_exit:392: exited: pid=28277 status=0 stoptime=0
+INFO  2021-01-07T07:12:52.963 27810 on_process_exit:392: exited: pid=28285 status=0 stoptime=0
+INFO  2021-01-07T07:12:52.986 27810 on_process_exit:392: exited: pid=28309 status=0 stoptime=0
+INFO  2021-01-07T07:12:53.031 27810 on_process_exit:392: exited: pid=28316 status=0 stoptime=0
+INFO  2021-01-07T07:12:53.283 27810 on_process_exit:392: exited: pid=28339 status=0 stoptime=0
+INFO  2021-01-07T07:12:53.292 27810 on_process_exit:392: exited: pid=28322 status=0 stoptime=0
+INFO  2021-01-07T07:12:53.301 27810 on_process_exit:392: exited: pid=28326 status=0 stoptime=0
+INFO  2021-01-07T07:12:53.390 27810 on_process_exit:392: exited: pid=28302 status=0 stoptime=0
+INFO  2021-01-07T07:12:53.623 27810 on_process_exit:392: exited: pid=28347 status=0 stoptime=0
+INFO  2021-01-07T07:12:53.905 27810 on_process_exit:392: exited: pid=28356 status=0 stoptime=0
+INFO  2021-01-07T07:12:53.938 27810 on_process_exit:392: exited: pid=28414 status=0 stoptime=0
+INFO  2021-01-07T07:12:54.023 27810 on_process_exit:392: exited: pid=28416 status=0 stoptime=0
+INFO  2021-01-07T07:12:54.050 27810 on_process_exit:392: exited: pid=28418 status=0 stoptime=0
+INFO  2021-01-07T07:12:54.090 27810 on_process_exit:392: exited: pid=28420 status=0 stoptime=0
+INFO  2021-01-07T07:12:54.138 27810 on_process_exit:392: exited: pid=28422 status=0 stoptime=0
+INFO  2021-01-07T07:12:54.187 27810 on_process_exit:392: exited: pid=28424 status=0 stoptime=0
+INFO  2021-01-07T07:12:54.221 27810 on_process_exit:392: exited: pid=28426 status=0 stoptime=0
+INFO  2021-01-07T07:12:54.251 27810 on_process_exit:392: exited: pid=28428 status=0 stoptime=0
+INFO  2021-01-07T07:12:54.280 27810 on_process_exit:392: exited: pid=28430 status=0 stoptime=0
+INFO  2021-01-07T07:12:54.312 27810 on_process_exit:392: exited: pid=28432 status=0 stoptime=0
+INFO  2021-01-07T07:12:54.341 27810 on_process_exit:392: exited: pid=28434 status=0 stoptime=0
+INFO  2021-01-07T07:12:54.370 27810 on_process_exit:392: exited: pid=28436 status=0 stoptime=0
+INFO  2021-01-07T07:12:54.409 27810 on_process_exit:392: exited: pid=28438 status=0 stoptime=0
+INFO  2021-01-07T07:12:54.460 27810 on_process_exit:392: exited: pid=28440 status=0 stoptime=0
+INFO  2021-01-07T07:12:54.495 27810 on_process_exit:392: exited: pid=28442 status=0 stoptime=0
+INFO  2021-01-07T07:12:54.535 27810 on_process_exit:392: exited: pid=28444 status=0 stoptime=0
+INFO  2021-01-07T07:12:54.574 27810 on_process_exit:392: exited: pid=28446 status=0 stoptime=0
+INFO  2021-01-07T07:12:54.619 27810 on_process_exit:392: exited: pid=28448 status=0 stoptime=0
+INFO  2021-01-07T07:12:54.663 27810 on_process_exit:392: exited: pid=28450 status=0 stoptime=0
+INFO  2021-01-07T07:12:54.715 27810 on_process_exit:392: exited: pid=28452 status=0 stoptime=0
+INFO  2021-01-07T07:12:54.750 27810 on_process_exit:392: exited: pid=28454 status=0 stoptime=0
+INFO  2021-01-07T07:12:54.807 27810 on_process_exit:392: exited: pid=28456 status=0 stoptime=0
+INFO  2021-01-07T07:12:54.859 27810 on_process_exit:392: exited: pid=28458 status=0 stoptime=0
+INFO  2021-01-07T07:12:54.895 27810 on_process_exit:392: exited: pid=28460 status=0 stoptime=0
+INFO  2021-01-07T07:12:54.950 27810 on_process_exit:392: exited: pid=28462 status=0 stoptime=0
+INFO  2021-01-07T07:12:54.987 27810 on_process_exit:392: exited: pid=28464 status=0 stoptime=0
+INFO  2021-01-07T07:12:55.019 27810 on_process_exit:392: exited: pid=28466 status=0 stoptime=0
+INFO  2021-01-07T07:12:55.049 27810 on_process_exit:392: exited: pid=28468 status=0 stoptime=0
+INFO  2021-01-07T07:12:55.092 27810 on_process_exit:392: exited: pid=28470 status=0 stoptime=0
+INFO  2021-01-07T07:12:55.141 27810 on_process_exit:392: exited: pid=28472 status=0 stoptime=0
+INFO  2021-01-07T07:12:55.194 27810 on_process_exit:392: exited: pid=28474 status=0 stoptime=0
+INFO  2021-01-07T07:12:55.280 27810 on_process_exit:392: exited: pid=28476 status=0 stoptime=0
+INFO  2021-01-07T07:12:55.338 27810 on_process_exit:392: exited: pid=28478 status=0 stoptime=0
+INFO  2021-01-07T07:12:55.421 27810 on_process_exit:392: exited: pid=28480 status=0 stoptime=0
+INFO  2021-01-07T07:12:55.465 27810 on_process_exit:392: exited: pid=28482 status=0 stoptime=0
+INFO  2021-01-07T07:12:55.498 27810 on_process_exit:392: exited: pid=28484 status=0 stoptime=0
+INFO  2021-01-07T07:12:55.542 27810 on_process_exit:392: exited: pid=28486 status=0 stoptime=0
+INFO  2021-01-07T07:12:55.588 27810 on_process_exit:392: exited: pid=28488 status=0 stoptime=0
+INFO  2021-01-07T07:12:55.632 27810 on_process_exit:392: exited: pid=28490 status=0 stoptime=0
+INFO  2021-01-07T07:12:55.674 27810 on_process_exit:392: exited: pid=28492 status=0 stoptime=0
+INFO  2021-01-07T07:12:55.719 27810 on_process_exit:392: exited: pid=28494 status=0 stoptime=0
+INFO  2021-01-07T07:12:55.759 27810 on_process_exit:392: exited: pid=28496 status=0 stoptime=0
+INFO  2021-01-07T07:12:55.810 27810 on_process_exit:392: exited: pid=28498 status=0 stoptime=0
+INFO  2021-01-07T07:12:55.857 27810 on_process_exit:392: exited: pid=28500 status=0 stoptime=0
+INFO  2021-01-07T07:12:55.922 27810 on_process_exit:392: exited: pid=28502 status=0 stoptime=0
+INFO  2021-01-07T07:12:55.969 27810 on_process_exit:392: exited: pid=28504 status=0 stoptime=0
+INFO  2021-01-07T07:12:56.029 27810 on_process_exit:392: exited: pid=28506 status=0 stoptime=0
+INFO  2021-01-07T07:12:56.142 27810 on_process_exit:392: exited: pid=28508 status=0 stoptime=0
+INFO  2021-01-07T07:12:56.172 27810 on_process_exit:392: exited: pid=28510 status=0 stoptime=0
+INFO  2021-01-07T07:12:56.208 27810 on_process_exit:392: exited: pid=28512 status=0 stoptime=0
+INFO  2021-01-07T07:12:56.245 27810 on_process_exit:392: exited: pid=28514 status=0 stoptime=0
+INFO  2021-01-07T07:12:56.275 27810 on_process_exit:392: exited: pid=28516 status=0 stoptime=0
+INFO  2021-01-07T07:12:56.302 27810 on_process_exit:392: exited: pid=28518 status=0 stoptime=0
+INFO  2021-01-07T07:12:56.328 27810 on_process_exit:392: exited: pid=28520 status=0 stoptime=0
+INFO  2021-01-07T07:12:56.357 27810 on_process_exit:392: exited: pid=28522 status=0 stoptime=0
+INFO  2021-01-07T07:12:56.388 27810 on_process_exit:392: exited: pid=28524 status=0 stoptime=0
+INFO  2021-01-07T07:12:56.442 27810 on_process_exit:392: exited: pid=28526 status=0 stoptime=0
+INFO  2021-01-07T07:12:56.519 27810 on_process_exit:392: exited: pid=28528 status=0 stoptime=0
+INFO  2021-01-07T07:12:56.550 27810 on_process_exit:392: exited: pid=28530 status=0 stoptime=0
+INFO  2021-01-07T07:12:56.579 27810 on_process_exit:392: exited: pid=28532 status=0 stoptime=0
+INFO  2021-01-07T07:12:56.615 27810 on_process_exit:392: exited: pid=28534 status=0 stoptime=0
+INFO  2021-01-07T07:12:56.647 27810 on_process_exit:392: exited: pid=28536 status=0 stoptime=0
+INFO  2021-01-07T07:12:56.676 27810 on_process_exit:392: exited: pid=28538 status=0 stoptime=0
+INFO  2021-01-07T07:12:56.705 27810 on_process_exit:392: exited: pid=28540 status=0 stoptime=0
+INFO  2021-01-07T07:12:56.735 27810 on_process_exit:392: exited: pid=28542 status=0 stoptime=0
+INFO  2021-01-07T07:12:56.764 27810 on_process_exit:392: exited: pid=28544 status=0 stoptime=0
+INFO  2021-01-07T07:12:56.799 27810 on_process_exit:392: exited: pid=28546 status=0 stoptime=0
+INFO  2021-01-07T07:12:56.847 27810 on_process_exit:392: exited: pid=28548 status=0 stoptime=0
+INFO  2021-01-07T07:12:56.888 27810 on_process_exit:392: exited: pid=28550 status=0 stoptime=0
+INFO  2021-01-07T07:12:56.918 27810 on_process_exit:392: exited: pid=28552 status=0 stoptime=0
+INFO  2021-01-07T07:12:56.945 27810 on_process_exit:392: exited: pid=28554 status=0 stoptime=0
+INFO  2021-01-07T07:12:56.984 27810 on_process_exit:392: exited: pid=28556 status=0 stoptime=0
+INFO  2021-01-07T07:12:57.039 27810 on_process_exit:392: exited: pid=28558 status=0 stoptime=0
+INFO  2021-01-07T07:12:57.078 27810 on_process_exit:392: exited: pid=28560 status=0 stoptime=0
+INFO  2021-01-07T07:12:57.107 27810 on_process_exit:392: exited: pid=28562 status=0 stoptime=0
+INFO  2021-01-07T07:12:57.134 27810 on_process_exit:392: exited: pid=28564 status=0 stoptime=0
+INFO  2021-01-07T07:12:57.166 27810 on_process_exit:392: exited: pid=28566 status=0 stoptime=0
+INFO  2021-01-07T07:12:57.192 27810 on_process_exit:392: exited: pid=28568 status=0 stoptime=0
+INFO  2021-01-07T07:12:57.243 27810 on_process_exit:392: exited: pid=28570 status=0 stoptime=0
+INFO  2021-01-07T07:12:57.274 27810 on_process_exit:392: exited: pid=28572 status=0 stoptime=0
+INFO  2021-01-07T07:12:57.306 27810 on_process_exit:392: exited: pid=28574 status=0 stoptime=0
+INFO  2021-01-07T07:12:57.365 27810 on_process_exit:392: exited: pid=28576 status=0 stoptime=0
+INFO  2021-01-07T07:12:57.407 27810 on_process_exit:392: exited: pid=28578 status=0 stoptime=0
+INFO  2021-01-07T07:12:57.467 27810 on_process_exit:392: exited: pid=28580 status=0 stoptime=0
+INFO  2021-01-07T07:12:57.565 27810 on_process_exit:392: exited: pid=28582 status=0 stoptime=0
+INFO  2021-01-07T07:12:57.676 27810 on_process_exit:392: exited: pid=28584 status=0 stoptime=0
+INFO  2021-01-07T07:12:57.743 27810 on_process_exit:392: exited: pid=28586 status=0 stoptime=0
+INFO  2021-01-07T07:12:57.803 27810 on_process_exit:392: exited: pid=28588 status=0 stoptime=0
+INFO  2021-01-07T07:12:58.833 27810 on_process_exit:392: exited: pid=28627 status=0 stoptime=0
+INFO  2021-01-07T07:12:59.108 27810 channel_create_event:204: new channel 91 (function coc#rpc#start_server[17]..<SNR>133_start:55) : {"id": 91, "client": {}, "mode": "rpc", "stream": "job"}
+INFO  2021-01-07T07:12:59.311 27810 main:559: starting main loop
+INFO  2021-01-07T07:14:05.842 27810 on_process_exit:392: exited: pid=28639 status=0 stoptime=0
+INFO  2021-01-07T07:14:05.879 27810 on_process_exit:392: exited: pid=28640 status=0 stoptime=0
+INFO  2021-01-07T07:14:08.431 27810 os_proc_tree_kill:96: sending SIGTERM to PID -28628
+INFO  2021-01-07T07:14:08.433 27810 on_process_exit:392: exited: pid=28628 status=143 stoptime=156557297068303
+INFO  2021-01-07T07:14:08.433 27810 os_exit:586: Nvim exit: 0
