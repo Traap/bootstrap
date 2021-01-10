@@ -4,7 +4,6 @@ require 'optparse'
 module Emend
   class CommandLineOptions
     attr_reader :options
-
     # {{{ Initialize CommandLineOptions
 
     def initialize
@@ -16,7 +15,7 @@ module Emend
     # {{{ concat_files
 
     def concat_files 
-      # Concentrate app, bundle, and files into @options[:files] just onece.
+      # Concatenate app, bundle, and files into @options[:files] just once.
       if @options[:files].nil?
         files = []
         files.concat( @options[:app] )    unless @options[:app].nil?
