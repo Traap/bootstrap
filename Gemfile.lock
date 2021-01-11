@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    emend (1.4.0.85)
+    emend (1.4.0.87)
 
 GEM
   remote: https://rubygems.org/

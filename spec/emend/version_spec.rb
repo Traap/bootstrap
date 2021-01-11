@@ -4,7 +4,7 @@ require 'emend'
 RSpec.describe 'Emend version' do
 
   before(:all) do
-    @version = '1.4.0.85'
+    @version = '1.4.0.87'
   end
 
   describe 'Version' do 
